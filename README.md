@@ -1,6 +1,4 @@
 # Crop-Yield-Prediction
-The objective of this project is to develop a machine learning model to predict crop yields based on weather conditions, soil properties, and historical data. Accurate predictions aid farmers in making informed decisions, improving agricultural planning, and enhancing food security.
-
 Project Description: Crop Yield Prediction Using Machine Learning Objective The primary objective of this project is to develop a machine learning model that can predict crop yields based on various factors such as weather conditions, soil properties, and historical yield data. Accurate crop yield predictions can help farmers make informed decisions about crop management, improve agricultural planning, and enhance food security.
 
 Steps Involved Data Collection
